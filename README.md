@@ -1,6 +1,4 @@
 # Algorithms_Final_Project
-Final project for Algorithms graduate course
-
 Final project investigating NOPD misconduct complaints Investigating bias in NOPD misconduct complaints: Methodology & Results Sheridan Wall & Bianca Pallaro
 
 04/07/2021
